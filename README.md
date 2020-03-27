@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # scala-java8-compat [![Build Status](https://travis-ci.org/scala/scala-java8-compat.svg?branch=master)](https://travis-ci.org/scala/scala-java8-compat) [<img src="https://img.shields.io/maven-central/v/org.scala-lang.modules/scala-java8-compat_2.11.svg?label=latest%20release%20for%202.11"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.scala-lang.modules%20a%3Ascala-java8-compat_2.11) [<img src="https://img.shields.io/maven-central/v/org.scala-lang.modules/scala-java8-compat_2.12.svg?label=latest%20release%20for%202.12"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.scala-lang.modules%20a%3Ascala-java8-compat_2.12) [<img src="https://img.shields.io/maven-central/v/org.scala-lang.modules/scala-java8-compat_2.13.svg?label=latest%20release%20for%202.13"/>](http://search.maven.org/#search%7Cga%7C1%7Cg%3Aorg.scala-lang.modules%20a%3Ascala-java8-compat_2.13)
 
 
@@ -285,3 +286,7 @@ DurationConverters.toJava(FiniteDuration.create(5, TimeUnit.SECONDS));
 ```
 
 
+=======
+# scala-java8-compat
+A Java 8 compatibility kit for Scala
+>>>>>>> da5a493b7e59f52be661c8e27f7b0ffcc2fc1693
